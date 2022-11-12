@@ -1,0 +1,14 @@
+.card-div {
+  color: rgb(208, 178, 30);
+  background-color: aliceblue;
+  height: 40%;
+  margin: auto;
+  width: 30vw;
+  margin: 10vh auto;
+  justify-content: left;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 10px 2px #aaaaaa;
+  border: 1px solid #bfbfbf;
+}
